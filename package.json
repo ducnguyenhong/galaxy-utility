@@ -1,0 +1,22 @@
+{
+  "name": "galaxy-utility",
+  "version": "0.0.2",
+  "description": "A library of utilities",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "prepare" : "npm run build"
+  },
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib"
+  ],
+  
+  "keywords": [],
+  "author": "Nguyễn Hồng Đức - ducnhdev99@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
