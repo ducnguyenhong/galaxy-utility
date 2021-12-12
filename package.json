@@ -1,6 +1,6 @@
 {
   "name": "galaxy-utility",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "A library of utilities",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -18,5 +18,10 @@
   "license": "ISC",
   "devDependencies": {
     "typescript": "^4.3.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/autoclickvn/galaxy-utility.git"
+  },
+  "homepage": "https://github.com/autoclickvn/galaxy-utility"
 }
